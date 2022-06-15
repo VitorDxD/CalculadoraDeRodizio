@@ -1,7 +1,3 @@
-//Cada adulto paga 55 no rodizio
-//Crianças não pagam (até 12 anos)
-//Cada adulto bebe 1000 ml, se for mais de 6 horas é 1800ml (lata de 350ml = 6 reais)
-//cada criança bebe 500ml, se for mais de 6 horas é 900ml
 let inputAdulto = document.getElementById("adultos");
 let inputCrianca = document.getElementById("criancas");
 let inputDuracao = document.getElementById("duracao");
